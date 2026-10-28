@@ -149,7 +149,7 @@ with st.sidebar:
 
 st.title(f" {NAME}")
 st.subheader(TAGLINE)
-st.caption(f"CSIT 349 · Applied AI · Section {SECTION} · {date.today():%B %d, %Y}")
+st.caption(f"CS 365 · Applied AI · Section {SECTION} · {date.today():%B %d, %Y}")
 st.info(f"Welcome! Use the tabs below to explore my story, skills, and projects.")
 
 
