@@ -28,6 +28,7 @@ SHORT_BIO = "I am going through all of my classes learning as much as I can. Tak
 
 PLAYLIST_URL = "https://www.youtube.com/embed/watch?v=zBKKZQkMHlA&list=RDzBKKZQkMHlA&start_radio=1&rv=zBKKZQkMHlA"
 
+
 AUTOBIOGRAPHY = {
     "Background": "Growing up from a not so well off family, I learned to be resourceful and determined.",
     "Education": "University of San Carlos - South Campus, Saint Louis University, Cebu Institute of Technology University",
