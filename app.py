@@ -1,5 +1,5 @@
 """
-CSIT 349 - Applied AI | Autobiography and Portfolio App
+CS 365 - Applied AI | Autobiography and Portfolio App
 Everything marked  TODO  is yours to fill in.
 """
 import os
