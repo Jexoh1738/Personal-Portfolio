@@ -222,7 +222,7 @@ with tab_story:
 
 with tab_skills:
     st.header("Skills")
-    st.write("TODO: One or two sentences describing how you built these skills.")
+    st.write("The power of last minute cramming")
 
     f1, f2 = st.columns([1, 2])
     with f1:
